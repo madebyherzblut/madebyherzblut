@@ -1,5 +1,6 @@
 <svg width="900" height="339" viewBox="0 0 900 339" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style>#cursor { animation: 1s infinite cursor; } @keyframes cursor { 0% { opacity: 1; } 100% { opacity: 0; }}</style>
+<!-- TODO: This is causing high CPU load in Firefox -->
+<!-- <style>#cursor { animation: 1s infinite cursor; } @keyframes cursor { 0% { opacity: 1; } 100% { opacity: 0; }}</style> -->
 <g clip-path="url(#clip0_1_79)">
 <g filter="url(#filter0_ddd_1_79)">
 <rect x="67" y="34" width="767" height="211" rx="8" fill="white"/>
